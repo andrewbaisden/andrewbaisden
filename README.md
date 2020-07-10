@@ -1,6 +1,6 @@
-# Welcome!
+# Welcome
 
-![Creative](https://res.cloudinary.com/d74fh3kw/image/upload/v1594398136/anime-code_fs6jhn.jpg 'Creative')
+![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1594399766/github_x15mfs.jpg 'Programmer')
 
 Hi! I'm Andrew a Full Stack Developer from London, UK 🇬🇧
 
