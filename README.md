@@ -12,7 +12,7 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 
 Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"), [DEV](https://dev.to/andrewbaisden "Andrew Baisden's DEV") and [Twitter](https://twitter.com/andrewbaisden "Andrew Baisden's Twitter")
 
-## Latest Blog Posts
+## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
