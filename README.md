@@ -15,6 +15,11 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What type of chair do you sit on when coding?](https://dev.to/andrewbaisden/what-type-of-chair-do-you-sit-on-when-coding-16mh)
+- [What headphones/earphones do you wear when coding?](https://dev.to/andrewbaisden/what-headphones-earphones-do-you-wear-when-coding-2efh)
+- [Who are your top 3 most influential developers to learn from at the moment?](https://dev.to/andrewbaisden/who-are-you-top-3-most-influential-developers-to-learn-from-at-the-moment-1b24)
+- [What Mouse Mat do you use for coding?](https://dev.to/andrewbaisden/what-mouse-mat-do-you-use-for-coding-2ni8)
+- [How do you track the series and movies you watch?](https://dev.to/andrewbaisden/how-do-you-track-the-series-and-movies-you-watch-29cn)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
