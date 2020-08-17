@@ -15,11 +15,11 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is your technical stack and what are you building?](https://dev.to/andrewbaisden/what-is-your-technical-stack-and-what-are-you-building-460l)
 - [What is the most practical server side language to learn in 2020 - 2021?](https://dev.to/andrewbaisden/what-is-the-most-practical-server-side-language-to-learn-in-2020-2021-44k)
 - [Node and React Router Dynamic API Routes](https://dev.to/andrewbaisden/node-and-react-router-dynamic-api-routes-21mg)
 - [Light Vs Dark Themes what is your preference?](https://dev.to/andrewbaisden/light-vs-dark-themes-what-is-your-preference-4gjd)
 - [What type of chair do you sit on when coding?](https://dev.to/andrewbaisden/what-type-of-chair-do-you-sit-on-when-coding-16mh)
-- [What headphones/earphones do you wear when coding?](https://dev.to/andrewbaisden/what-headphones-earphones-do-you-wear-when-coding-2efh)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
