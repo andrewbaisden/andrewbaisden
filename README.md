@@ -15,7 +15,6 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [What are you usually doing when you are not programming?](https://dev.to/andrewbaisden/what-are-you-usually-doing-when-you-are-not-programming-290p)
 - [What is your current job title and what do you aspire to be?](https://dev.to/andrewbaisden/what-is-your-current-job-title-and-what-do-you-aspire-to-be-2eh0)
 - [What is your database of choice?](https://dev.to/andrewbaisden/what-is-your-database-of-choice-23gd)
