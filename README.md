@@ -6,8 +6,8 @@ Hi! I'm Andrew a Full Stack Developer from London, UK 🇬🇧
 
 I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)۶
 
-- Frontend: HTML, CSS, JavaScript, React, Redux, EJS
-- Backend: NodeJS, MongoDB
+- Frontend: HTML, CSS, JavaScript, React, Redux
+- Backend: Python, NodeJS, SQL, NoSQL
 - CI/CD: GitHub Actions, CircleCI
 
 Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"), [DEV](https://dev.to/andrewbaisden "Andrew Baisden's DEV") and [Twitter](https://twitter.com/andrewbaisden "Andrew Baisden's Twitter")
@@ -15,6 +15,7 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What type of chair do you sit on when coding?](https://dev.to/andrewbaisden/what-type-of-chair-do-you-sit-on-when-coding-16mh)
 - [What headphones/earphones do you wear when coding?](https://dev.to/andrewbaisden/what-headphones-earphones-do-you-wear-when-coding-2efh)
 - [Who are your top 3 most influential developers to learn from at the moment?](https://dev.to/andrewbaisden/who-are-you-top-3-most-influential-developers-to-learn-from-at-the-moment-1b24)
