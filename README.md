@@ -6,8 +6,8 @@ Hi! I'm Andrew a Full Stack Developer from London, UK 🇬🇧
 
 I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)۶
 
-- Frontend: HTML, CSS, JavaScript, React, Redux
-- Backend: Python, NodeJS, SQL, NoSQL
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, Redux
+- Backend: Python, NodeJS, Kotlin, SQL, NoSQL
 - CI/CD: GitHub Actions, CircleCI
 
 Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"), [DEV](https://dev.to/andrewbaisden "Andrew Baisden's DEV") and [Twitter](https://twitter.com/andrewbaisden "Andrew Baisden's Twitter")
@@ -15,6 +15,7 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [What are you usually doing when you are not programming?](https://dev.to/andrewbaisden/what-are-you-usually-doing-when-you-are-not-programming-290p)
 - [What is your current job title and what do you aspire to be?](https://dev.to/andrewbaisden/what-is-your-current-job-title-and-what-do-you-aspire-to-be-2eh0)
 - [What is your database of choice?](https://dev.to/andrewbaisden/what-is-your-database-of-choice-23gd)
