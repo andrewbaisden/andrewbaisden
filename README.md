@@ -15,11 +15,11 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Full-Stack Developer Vs Software Engineer](https://dev.to/andrewbaisden/full-stack-developer-vs-software-engineer-3ljk)
 - [How to deploy a Python/Flask App to Vercel](https://dev.to/andrewbaisden/how-to-deploy-a-python-flask-app-to-vercel-2o5k)
 - [How to deploy a Node/Express App to Vercel](https://dev.to/andrewbaisden/how-to-deploy-a-node-express-app-to-vercel-2aa)
 - [What is your personality type?](https://dev.to/andrewbaisden/what-is-your-personality-type-3ko)
 - [What are you usually doing when you are not programming?](https://dev.to/andrewbaisden/what-are-you-usually-doing-when-you-are-not-programming-290p)
-- [What is your current job title and what do you aspire to be?](https://dev.to/andrewbaisden/what-is-your-current-job-title-and-what-do-you-aspire-to-be-2eh0)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
