@@ -15,11 +15,11 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating React/Node apps that connect to PostgreSQL and HarperDB](https://dev.to/andrewbaisden/creating-react-node-apps-that-connect-to-postgresql-and-harperdb-41h3)
 - [Creating React/Flask apps that connect to PostgreSQL and HarperDB](https://dev.to/andrewbaisden/creating-react-flask-apps-that-connect-to-postgresql-and-harperdb-1op0)
 - [GitHub code scanning is now available!](https://dev.to/andrewbaisden/github-code-scanning-is-now-available-20h4)
 - [Creating a Resume using Linkedin](https://dev.to/andrewbaisden/creating-a-resume-using-linkedin-5262)
 - [If you could only master ONE programming language what would it be and why?](https://dev.to/andrewbaisden/if-you-could-only-master-one-programming-language-what-would-it-be-and-why-10h7)
-- [What I realised after learning Python, TypeScript and Kotlin](https://dev.to/andrewbaisden/what-i-realised-after-learning-python-typescript-and-kotlin-44nf)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
