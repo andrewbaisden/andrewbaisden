@@ -15,11 +15,11 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Freelance vs Personal Projects](https://dev.to/andrewbaisden/freelance-vs-personal-projects-435b)
+- [What was your first programming language and why did you choose it?](https://dev.to/andrewbaisden/what-was-your-first-programming-language-and-why-did-you-choose-it-3ioa)
+- [Why do developers have a love hate relationship with WordPress?](https://dev.to/andrewbaisden/why-do-developers-have-a-love-hate-relationship-with-wordpress-3kl1)
 - [Creating React/Node apps that connect to PostgreSQL and HarperDB](https://dev.to/andrewbaisden/creating-react-node-apps-that-connect-to-postgresql-and-harperdb-41h3)
 - [Creating React/Flask apps that connect to PostgreSQL and HarperDB](https://dev.to/andrewbaisden/creating-react-flask-apps-that-connect-to-postgresql-and-harperdb-1op0)
-- [GitHub code scanning is now available!](https://dev.to/andrewbaisden/github-code-scanning-is-now-available-20h4)
-- [Creating a Resume using Linkedin](https://dev.to/andrewbaisden/creating-a-resume-using-linkedin-5262)
-- [If you could only master ONE programming language what would it be and why?](https://dev.to/andrewbaisden/if-you-could-only-master-one-programming-language-what-would-it-be-and-why-10h7)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
