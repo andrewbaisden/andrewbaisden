@@ -15,11 +15,11 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My initial thoughts on using Flutter and Dart for App development](https://dev.to/andrewbaisden/my-initial-thoughts-on-using-flutter-and-dart-for-app-development-5fhl)
 - [Codecademy new and improved Career Paths](https://dev.to/andrewbaisden/codecademy-new-and-improved-career-paths-3n97)
 - [Front-End, Back-End or Mobile App Development?](https://dev.to/andrewbaisden/front-end-back-end-or-mobile-app-development-13jo)
 - [100 AWESOME Developers to follow on Twitter](https://dev.to/andrewbaisden/100-awesome-developers-to-follow-on-twitter-43de)
 - [What type of computer do Linux Developers use?](https://dev.to/andrewbaisden/what-type-of-computer-do-linux-developers-use-2eob)
-- [Introducing... DigitalOcean App Platform!](https://dev.to/andrewbaisden/introducing-digitalocean-app-platform-28di)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
