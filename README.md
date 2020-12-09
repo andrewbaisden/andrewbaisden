@@ -15,11 +15,11 @@ Check out my [Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio"
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What External Display do you use with your computer?](https://dev.to/andrewbaisden/what-external-display-do-you-use-with-your-computer-ci2)
+- [Clean Install vs Backup](https://dev.to/andrewbaisden/clean-install-vs-backup-1gg4)
 - [Why you should become a mobile app developer](https://dev.to/andrewbaisden/why-you-should-become-a-mobile-app-developer-24kg)
 - [Why its useful to have a personal skill matrix](https://dev.to/andrewbaisden/why-its-useful-to-have-a-personal-skill-matrix-140k)
 - [My initial thoughts on using Flutter and Dart for App development](https://dev.to/andrewbaisden/my-initial-thoughts-on-using-flutter-and-dart-for-app-development-5fhl)
-- [Codecademy new and improved Career Paths](https://dev.to/andrewbaisden/codecademy-new-and-improved-career-paths-3n97)
-- [Front-End, Back-End or Mobile App Development?](https://dev.to/andrewbaisden/front-end-back-end-or-mobile-app-development-13jo)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
