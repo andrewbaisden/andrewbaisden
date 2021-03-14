@@ -1,6 +1,6 @@
 # Welcome 👋
 
-![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1594399766/github_x15mfs.jpg 'Programmer')
+![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1615740527/twitter-banner_p0ylhi.png 'Programmer')
 
 Hi! I'm Andrew a Full Stack Developer from London, UK 🇬🇧
 
@@ -24,9 +24,12 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 
 [Medium](https://andrewbaisden.medium.com/ "Andrew Baisden's Medium")
 
+[Linkedin](https://www.linkedin.com/in/andrew-baisden/ "Andrew Baisden's Linkedin")
+
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Examples for reversing a string in JavaScript, Python and Dart](https://dev.to/andrewbaisden/examples-for-reversing-a-string-in-javascript-python-and-dart-22pf)
 - [How I setup my Development Environment on macOS 2021 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2021-edition-1lce)
 - [My thoughts on using the LG 27UL850W 4K UHD LED LCD Monitor for programming and media consumption](https://dev.to/andrewbaisden/my-thoughts-on-using-the-lg-27ul850w-4k-uhd-led-lcd-monitor-for-programming-and-media-consumption-nf2)
