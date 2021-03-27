@@ -6,7 +6,7 @@ Hi! I'm Andrew a Full Stack Developer from London, UK 🇬🇧
 
 I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)۶
 
-- Front-End: HTML, CSS, JavaScript, Typescript, React, Redux, React Native Flutter/Dart
+- Front-End: HTML, CSS, JavaScript, Typescript, React, Redux, React Native, Flutter/Dart
 - Back-End: Python, NodeJS, SQL, NoSQL
 - CI/CD: GitHub Actions, CircleCI
 
