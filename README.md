@@ -29,7 +29,6 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [50 Cool Web And Mobile Project Ideas for 2021](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2021-1pgl)
 - [Examples for reversing a string in JavaScript, Python and Dart](https://dev.to/andrewbaisden/examples-for-reversing-a-string-in-javascript-python-and-dart-22pf)
 - [How I setup my Development Environment on macOS 2021 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2021-edition-1lce)
