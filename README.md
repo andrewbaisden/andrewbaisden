@@ -29,11 +29,11 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the global pandemic turned more people to code and why you should do it too](https://dev.to/andrewbaisden/how-the-global-pandemic-turned-more-people-to-code-and-why-you-should-do-it-too-52b7)
 - [50 Cool Web And Mobile Project Ideas for 2021](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2021-1pgl)
 - [Examples for reversing a string in JavaScript, Python and Dart](https://dev.to/andrewbaisden/examples-for-reversing-a-string-in-javascript-python-and-dart-22pf)
 - [How I setup my Development Environment on macOS 2021 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2021-edition-1lce)
 - [My thoughts on using the LG 27UL850W 4K UHD LED LCD Monitor for programming and media consumption](https://dev.to/andrewbaisden/my-thoughts-on-using-the-lg-27ul850w-4k-uhd-led-lcd-monitor-for-programming-and-media-consumption-nf2)
-- [How Developers can learn from the mistakes of Cyberpunk 2077](https://dev.to/andrewbaisden/how-developers-can-learn-from-the-mistakes-of-cyberpunk-2077-1pi4)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
