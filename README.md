@@ -29,11 +29,11 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 activities that increase my creativity as a developer](https://dev.to/andrewbaisden/20-activities-that-increase-my-creativity-as-a-developer-244n)
 - [10 reasons why Twitter is better than LinkedIn for finding work](https://dev.to/andrewbaisden/10-reasons-why-twitter-is-better-than-linkedin-for-finding-work-gbk)
 - [45 useful mobile apps that I use as a developer](https://dev.to/andrewbaisden/45-useful-mobile-apps-that-i-use-as-a-developer-2ko4)
 - [How the global pandemic turned more people to code and why you should do it too](https://dev.to/andrewbaisden/how-the-global-pandemic-turned-more-people-to-code-and-why-you-should-do-it-too-52b7)
 - [50 Cool Web And Mobile Project Ideas for 2021](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2021-1pgl)
-- [Examples for reversing a string in JavaScript, Python and Dart](https://dev.to/andrewbaisden/examples-for-reversing-a-string-in-javascript-python-and-dart-22pf)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
