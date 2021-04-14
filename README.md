@@ -17,7 +17,6 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [20 activities that increase my creativity as a developer](https://dev.to/andrewbaisden/20-activities-that-increase-my-creativity-as-a-developer-244n)
 - [10 reasons why Twitter is better than LinkedIn for finding work](https://dev.to/andrewbaisden/10-reasons-why-twitter-is-better-than-linkedin-for-finding-work-gbk)
 - [45 useful mobile apps that I use as a developer](https://dev.to/andrewbaisden/45-useful-mobile-apps-that-i-use-as-a-developer-2ko4)
