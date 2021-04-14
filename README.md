@@ -12,23 +12,12 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 
 ## My Platforms
 
-[Portfolio](https://andrewbaisden.com/ "Andrew Baisden's Portfolio")
-
-[DEV](https://dev.to/andrewbaisden "Andrew Baisden's DEV")
-
-[CodeNewbie](https://community.codenewbie.org/andrewbaisden "Andrew Baisden's CodeNewbie")
-
-[Hashnode](https://hashnode.com/@andrewbaisden "Andrew Baisden's Hashnode")
-
-[Twitter](https://twitter.com/andrewbaisden "Andrew Baisden's Twitter")
-
-[Medium](https://andrewbaisden.medium.com/ "Andrew Baisden's Medium")
-
-[Linkedin](https://www.linkedin.com/in/andrew-baisden/ "Andrew Baisden's Linkedin")
+[Profiles and Blogs](https://linktr.ee/andrewbaisden)
 
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [20 activities that increase my creativity as a developer](https://dev.to/andrewbaisden/20-activities-that-increase-my-creativity-as-a-developer-244n)
 - [10 reasons why Twitter is better than LinkedIn for finding work](https://dev.to/andrewbaisden/10-reasons-why-twitter-is-better-than-linkedin-for-finding-work-gbk)
 - [45 useful mobile apps that I use as a developer](https://dev.to/andrewbaisden/45-useful-mobile-apps-that-i-use-as-a-developer-2ko4)
