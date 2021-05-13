@@ -17,11 +17,11 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Developers perspective on the M1 MacBook Pro after 5 months of usage](https://dev.to/andrewbaisden/a-developers-perspective-on-the-m1-macbook-pro-after-5-months-of-usage-3d7m)
 - [Freelancer vs. Company Employee](https://dev.to/andrewbaisden/freelancer-vs-company-employee-5hep)
 - [11 Types of Twitter Users and How They Compare](https://dev.to/andrewbaisden/11-types-of-twitter-users-and-how-they-compare-dkc)
 - [Why it's so important to create a personal brand](https://dev.to/andrewbaisden/why-it-s-so-important-to-create-a-personal-brand-2501)
 - [15 reasons why you should be using Figma for design](https://dev.to/andrewbaisden/15-reasons-why-you-should-be-using-figma-for-design-nd5)
-- [Why you should create a developer Instagram account](https://dev.to/andrewbaisden/why-you-should-create-a-developer-instagram-account-35m2)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
