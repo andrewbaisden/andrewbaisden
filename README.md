@@ -1,6 +1,6 @@
 # Welcome 👋🏿
 
-![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1621532167/twitter-banner_np9nyo.png 'Programmer')
+![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1621544230/twitter-banner_etohvf.png 'Programmer')
 
 Hi! I'm Andrew a Full Stack Developer from London, UK 🇬🇧
 
