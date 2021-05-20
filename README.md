@@ -17,6 +17,7 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Why programmers should add journaling to their daily routine](https://dev.to/andrewbaisden/why-programmers-should-add-journaling-to-their-daily-routine-o5j)
 - [I used the web browsers Edge and Brave exclusively for 1 week each here are my thoughts](https://dev.to/andrewbaisden/i-used-the-web-browsers-edge-and-brave-exclusively-for-1-week-each-here-are-my-thoughts-1pd)
 - [How I use the Markdown app Obsidian as a second brain](https://dev.to/andrewbaisden/how-i-use-the-markdown-app-obsidian-as-a-second-brain-bk3)
