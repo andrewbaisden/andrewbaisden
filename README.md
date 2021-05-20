@@ -12,7 +12,7 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 
 ## My Platforms
 
-![https://res.cloudinary.com/d74fh3kw/image/upload/v1621532697/profile-blog-btn_nigmar.png](https://res.cloudinary.com/d74fh3kw/image/upload/v1621532697/profile-blog-btn_nigmar.png 'Profiles and Blogs')
+[![Profiles and Blogs](https://res.cloudinary.com/d74fh3kw/image/upload/v1621532697/profile-blog-btn_nigmar.png)](https://linktr.ee/andrewbaisden)
 
 ## My Latest Blog Posts
 
