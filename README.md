@@ -17,11 +17,11 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Dogidex the gamified pet learning app for children](https://dev.to/andrewbaisden/introducing-dogidex-the-gamified-pet-learning-app-for-children-164h)
 - [How creating CSS Art can make you a better developer](https://dev.to/andrewbaisden/how-creating-css-art-can-make-you-a-better-developer-4cd5)
 - [Why programmers should add journaling to their daily routine](https://dev.to/andrewbaisden/why-programmers-should-add-journaling-to-their-daily-routine-o5j)
 - [I used the web browsers Edge and Brave exclusively for 1 week each here are my thoughts](https://dev.to/andrewbaisden/i-used-the-web-browsers-edge-and-brave-exclusively-for-1-week-each-here-are-my-thoughts-1pd)
 - [How I use the Markdown app Obsidian as a second brain](https://dev.to/andrewbaisden/how-i-use-the-markdown-app-obsidian-as-a-second-brain-bk3)
-- [A Developers perspective on the M1 MacBook Pro after 5 months of usage](https://dev.to/andrewbaisden/a-developers-perspective-on-the-m1-macbook-pro-after-5-months-of-usage-3d7m)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
