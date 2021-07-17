@@ -1,6 +1,6 @@
 # Welcome 👋🏿
 
-![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1621544230/twitter-banner_etohvf.png 'Programmer')
+![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1626523291/Twitter_header_-_V4_k1nocs.png 'Programmer')
 
 Hi! I'm Andrew a Full Stack Developer from London, UK 🇬🇧
 
@@ -17,6 +17,7 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Modern Full-Stack Developer Tech Stack 2021](https://dev.to/andrewbaisden/modern-full-stack-developer-tech-stack-2021-49ij)
 - [Introducing Dogidex the gamified pet learning app for children](https://dev.to/andrewbaisden/introducing-dogidex-the-gamified-pet-learning-app-for-children-164h)
 - [How creating CSS Art can make you a better developer](https://dev.to/andrewbaisden/how-creating-css-art-can-make-you-a-better-developer-4cd5)
