@@ -17,7 +17,6 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Modern Full-Stack Developer Tech Stack 2021](https://dev.to/andrewbaisden/modern-full-stack-developer-tech-stack-2021-49ij)
 - [Introducing Dogidex the gamified pet learning app for children](https://dev.to/andrewbaisden/introducing-dogidex-the-gamified-pet-learning-app-for-children-164h)
 - [How creating CSS Art can make you a better developer](https://dev.to/andrewbaisden/how-creating-css-art-can-make-you-a-better-developer-4cd5)
