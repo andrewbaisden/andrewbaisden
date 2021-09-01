@@ -17,11 +17,11 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 reasons why nobody is reading your articles and how to fix it](https://dev.to/andrewbaisden/10-reasons-why-nobody-is-reading-your-articles-and-how-to-fix-it-36b6)
 - [The importance of a design system and why you should be using Storybook in all of your projects](https://dev.to/andrewbaisden/the-importance-of-a-design-system-and-why-you-should-be-using-storybook-in-all-of-your-projects-d1o)
 - [Top 5 lessons I learned while looking for my next developer role](https://dev.to/andrewbaisden/top-5-lessons-i-learned-while-looking-for-my-next-developer-role-556k)
 - [Why you should consider having a brand colour](https://dev.to/andrewbaisden/why-you-should-consider-having-a-brand-colour-528i)
 - [5 steps for performing well in a new job](https://dev.to/andrewbaisden/5-steps-for-performing-well-in-a-new-job-1h5c)
-- [8 reasons why having a blog is as important as having a GitHub](https://dev.to/andrewbaisden/8-reasons-why-having-a-blog-is-as-important-as-having-a-github-28ac)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
