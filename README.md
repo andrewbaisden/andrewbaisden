@@ -17,11 +17,11 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why developers don't like ETA's?](https://dev.to/andrewbaisden/why-developers-dont-like-etas-56o1)
 - [What qualities should a software engineer have?](https://dev.to/andrewbaisden/what-qualities-should-a-software-engineer-have-3mg6)
 - [100 blog topic ideas for your next article - No more writers block](https://dev.to/andrewbaisden/100-blog-topic-ideas-for-your-next-article-no-more-writers-block-2e0j)
 - [Why having a portfolio website is not necessary for getting hired in 2021](https://dev.to/andrewbaisden/why-having-a-portfolio-website-is-not-necessary-for-getting-hired-in-2021-4191)
 - [How to be successful as a self taught developer](https://dev.to/andrewbaisden/how-to-be-successful-as-a-self-taught-developer-4ofk)
-- [10 reasons why nobody is reading your articles and how to fix it](https://dev.to/andrewbaisden/10-reasons-why-nobody-is-reading-your-articles-and-how-to-fix-it-36b6)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
