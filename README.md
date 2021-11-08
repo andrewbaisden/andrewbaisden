@@ -17,7 +17,7 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why developers don't like ETA's?](https://dev.to/andrewbaisden/why-developers-dont-like-etas-56o1)
+- [Why developers don&#39;t like ETA&#39;s?](https://dev.to/andrewbaisden/why-developers-dont-like-etas-56o1)
 - [What qualities should a software engineer have?](https://dev.to/andrewbaisden/what-qualities-should-a-software-engineer-have-3mg6)
 - [100 blog topic ideas for your next article - No more writers block](https://dev.to/andrewbaisden/100-blog-topic-ideas-for-your-next-article-no-more-writers-block-2e0j)
 - [Why having a portfolio website is not necessary for getting hired in 2021](https://dev.to/andrewbaisden/why-having-a-portfolio-website-is-not-necessary-for-getting-hired-in-2021-4191)
