@@ -17,7 +17,6 @@ I also like watching anime and drawing manga in my free time too. ٩(●ᴗ●)�
 ## My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [8 GitHub resources for becoming a developer in 2022](https://dev.to/andrewbaisden/8-github-resources-for-becoming-a-developer-in-2022-cji)
 - [How I setup my Development Environment on macOS 2022 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2022-edition-5elf)
 - [50 Cool Web And Mobile Project Ideas for 2022](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2022-1flj)
