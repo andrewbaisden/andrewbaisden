@@ -6,6 +6,10 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 
 ![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1649103872/Twitter_Banner_V8_baoacc.png 'Programmer')
 
+## 💻 TECH STACK
+
+---
+
 ![https://cdn-icons-png.flaticon.com/24/1051/1051277.png](https://cdn-icons-png.flaticon.com/24/1051/1051277.png)
 ![https://cdn-icons-png.flaticon.com/24/732/732190.png](https://cdn-icons-png.flaticon.com/24/732/732190.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968292.png](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
@@ -23,11 +27,12 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ![https://cdn-icons-png.flaticon.com/24/5968/5968520.png](https://cdn-icons-png.flaticon.com/24/5968/5968520.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968559.png](https://cdn-icons-png.flaticon.com/24/5968/5968559.png)
 
----
-
 ## 📝 LATEST ARTICLES
 
+---
+
 <!-- BLOG-POST-LIST:START -->
+
 - [How to use HarperDB custom functions to build your entire backend](https://dev.to/andrewbaisden/how-to-use-harperdb-custom-functions-to-build-your-entire-backend-a2m)
 - [Why you should consider adding a BenQ ScreenBar to your developer setup](https://dev.to/andrewbaisden/why-you-should-consider-adding-a-benq-screenbar-to-your-developer-setup-502d)
 - [8 GitHub resources for becoming a developer in 2022](https://dev.to/andrewbaisden/8-github-resources-for-becoming-a-developer-in-2022-cji)
