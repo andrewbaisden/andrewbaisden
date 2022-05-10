@@ -32,11 +32,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Modern React Developer 2022](https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257)
 - [React 18 Whats New](https://dev.to/andrewbaisden/react-18-whats-new-2b1f)
 - [What is the most important factor for you when looking for work?](https://dev.to/andrewbaisden/what-is-the-most-important-factor-for-you-when-looking-for-work-3dpp)
 - [How to use HarperDB custom functions to build your entire backend](https://dev.to/andrewbaisden/how-to-use-harperdb-custom-functions-to-build-your-entire-backend-a2m)
 - [Why you should consider adding a BenQ ScreenBar to your developer setup](https://dev.to/andrewbaisden/why-you-should-consider-adding-a-benq-screenbar-to-your-developer-setup-502d)
-- [8 GitHub resources for becoming a developer in 2022](https://dev.to/andrewbaisden/8-github-resources-for-becoming-a-developer-in-2022-cji)
 <!-- BLOG-POST-LIST:END -->
 
 ---
