@@ -32,11 +32,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [How to do Test Driven Development in React using React Testing Library, Jest and Cypress](https://dev.to/andrewbaisden/how-to-do-test-driven-development-in-react-using-react-testing-library-jest-and-cypress-1d1i)
 - [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
 - [The Top 12 Node.js Frameworks on GitHub️](https://dev.to/andrewbaisden/the-top-12-nodejs-frameworks-on-github-beg)
 - [Creating a component design system using React, TypeScript and Storybook](https://dev.to/andrewbaisden/creating-a-component-design-system-using-react-typescript-and-storybook-381g)
 - [The Complete Modern React Developer 2022](https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257)
-- [React 18 Whats New](https://dev.to/andrewbaisden/react-18-whats-new-2b1f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
