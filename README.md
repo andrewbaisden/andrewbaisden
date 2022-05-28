@@ -4,7 +4,7 @@ Hey there, I'm Andrew a Software Developer from London, UK 🇬🇧
 
 Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io/andrewbaisden)
 
-![Programmer](https://res.cloudinary.com/d74fh3kw/image/upload/v1649103872/Twitter_Banner_V8_baoacc.png 'Programmer')
+![Programmer](img/andrew-baisden-banner.png 'Programmer')
 
 ---
 
@@ -32,6 +32,7 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to do Test Driven Development in React using React Testing Library, Jest and Cypress](https://dev.to/andrewbaisden/how-to-do-test-driven-development-in-react-using-react-testing-library-jest-and-cypress-1d1i)
 - [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
 - [The Top 12 Node.js Frameworks on GitHub️](https://dev.to/andrewbaisden/the-top-12-nodejs-frameworks-on-github-beg)
