@@ -32,11 +32,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Quntis Screen Light Bar Vs. BenQ ScreenBar](https://dev.to/andrewbaisden/quntis-screen-light-bar-vs-benq-screenbar-1ef8)
 - [3 Ways to Help Developers Thrive](https://dev.to/andrewbaisden/3-ways-to-help-developers-thrive-1ele)
 - [How to use ESLint and Prettier for code analysis and formatting](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g)
 - [How to use Docker in your Node and React Applications](https://dev.to/andrewbaisden/how-to-use-docker-in-your-node-and-react-applications-597e)
 - [How to do Test Driven Development in React using React Testing Library, Jest and Cypress](https://dev.to/andrewbaisden/how-to-do-test-driven-development-in-react-using-react-testing-library-jest-and-cypress-1d1i)
-- [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
