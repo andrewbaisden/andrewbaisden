@@ -32,11 +32,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Became a Software Developer - My Journey](https://dev.to/andrewbaisden/why-i-became-a-software-developer-my-journey-1bh8)
 - [5 Mistakes to Avoid with Agile Development](https://dev.to/andrewbaisden/5-mistakes-to-avoid-with-agile-development-346a)
 - [Quntis Screen Light Bar Vs. BenQ ScreenBar](https://dev.to/andrewbaisden/quntis-screen-light-bar-vs-benq-screenbar-1ef8)
 - [3 Ways to Help Developers Thrive](https://dev.to/andrewbaisden/3-ways-to-help-developers-thrive-1ele)
 - [How to use ESLint and Prettier for code analysis and formatting](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g)
-- [How to use Docker in your Node and React Applications](https://dev.to/andrewbaisden/how-to-use-docker-in-your-node-and-react-applications-597e)
 <!-- BLOG-POST-LIST:END -->
 
 ---
