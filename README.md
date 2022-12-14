@@ -4,7 +4,7 @@ Hey there, I'm Andrew a Software Developer from London, UK 🇬🇧
 
 Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io/andrewbaisden)
 
-![Programmer](img/andrew-baisden-banner.png 'Programmer')
+![Programmer](img/andrew-baisden-banner-2022.png 'Programmer')
 
 ---
 
@@ -32,6 +32,7 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Twitter is shutting down Revue their newsletter platform](https://dev.to/andrewbaisden/twitter-is-shutting-down-revue-their-newsletter-platform-4pe2)
 - [A day in the life of a developer](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-2ceb)
 - [My Latest Project Inspires Creativity](https://dev.to/andrewbaisden/my-latest-project-inspires-creativity-154j)
