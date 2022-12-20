@@ -32,11 +32,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup HarperDB on Ubuntu](https://dev.to/andrewbaisden/how-to-setup-harperdb-on-ubuntu-48c)
 - [Twitter is shutting down Revue their newsletter platform](https://dev.to/andrewbaisden/twitter-is-shutting-down-revue-their-newsletter-platform-4pe2)
 - [A day in the life of a developer](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-2ceb)
 - [My Latest Project Inspires Creativity](https://dev.to/andrewbaisden/my-latest-project-inspires-creativity-154j)
 - [The Microsoft Behemoth](https://dev.to/andrewbaisden/the-microsoft-behemoth-217n)
-- [Why I Became a Software Developer - My Journey](https://dev.to/andrewbaisden/why-i-became-a-software-developer-my-journey-1bh8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
