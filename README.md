@@ -32,11 +32,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Remote Development Environment Using Ubuntu Linux](https://dev.to/andrewbaisden/how-to-create-a-remote-development-environment-using-ubuntu-linux-3ohp)
 - [How to Install Ubuntu Linux on Apple Silicon MacBooks](https://dev.to/andrewbaisden/how-to-install-ubuntu-linux-on-apple-silicon-macbooks-1nia)
 - [How to Add ChatGPT to Your Programming Toolkit](https://dev.to/andrewbaisden/how-to-add-chatgpt-to-your-programming-toolkit-4g68)
 - [How to setup HarperDB on Ubuntu](https://dev.to/andrewbaisden/how-to-setup-harperdb-on-ubuntu-48c)
 - [Twitter is shutting down Revue their newsletter platform](https://dev.to/andrewbaisden/twitter-is-shutting-down-revue-their-newsletter-platform-4pe2)
-- [A day in the life of a developer](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-2ceb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
