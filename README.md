@@ -4,7 +4,7 @@ Hey there, I'm Andrew a Software Developer from London, UK 🇬🇧
 
 Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io/andrewbaisden)
 
-![Programmer](img/andrew-baisden-banner-2022.png 'Programmer')
+![Programmer](img/andrew-baisden-banner-2023.png 'Programmer')
 
 ---
 
@@ -32,6 +32,7 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Create a Remote Development Environment Using Ubuntu Linux](https://dev.to/andrewbaisden/how-to-create-a-remote-development-environment-using-ubuntu-linux-3ohp)
 - [How to Install Ubuntu Linux on Apple Silicon MacBooks](https://dev.to/andrewbaisden/how-to-install-ubuntu-linux-on-apple-silicon-macbooks-1nia)
 - [How to Add ChatGPT to Your Programming Toolkit](https://dev.to/andrewbaisden/how-to-add-chatgpt-to-your-programming-toolkit-4g68)
