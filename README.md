@@ -32,11 +32,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Why JavaScript Developers Should Learn Node.js and Backend Databases](https://dev.to/andrewbaisden/why-javascript-developers-should-learn-nodejs-and-backend-databases-4c06)
 - [How to Make Money With a Tech Career](https://dev.to/andrewbaisden/how-to-make-money-with-a-tech-career-eg1)
 - [The benefits of knowing two high demand programming languages](https://dev.to/andrewbaisden/the-benefits-of-knowing-two-high-demand-programming-languages-4ak0)
 - [How to Create a Remote Development Environment Using Ubuntu Linux](https://dev.to/andrewbaisden/how-to-create-a-remote-development-environment-using-ubuntu-linux-3ohp)
 - [How to Install Ubuntu Linux on Apple Silicon MacBooks](https://dev.to/andrewbaisden/how-to-install-ubuntu-linux-on-apple-silicon-macbooks-1nia)
-- [How to Add ChatGPT to Your Programming Toolkit](https://dev.to/andrewbaisden/how-to-add-chatgpt-to-your-programming-toolkit-4g68)
 <!-- BLOG-POST-LIST:END -->
 
 ---
