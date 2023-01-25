@@ -31,11 +31,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [10 of the coolest developer T-shirts from devshirt.club](https://dev.to/andrewbaisden/10-of-the-coolest-developer-t-shirts-from-devshirtclub-56dk)
 - [51 AI tools you should be using for life, programming, content creation and everything else](https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k)
 - [The difference between functional and object orientated programming](https://dev.to/andrewbaisden/the-difference-between-functional-and-object-orientated-programming-833)
 - [How to improve test coverage in a JavaScript React project](https://dev.to/andrewbaisden/how-to-improve-test-coverage-in-a-javascript-react-project-235p)
 - [Why you should start your tech career today](https://dev.to/andrewbaisden/why-you-should-start-your-tech-career-today-1mc)
-- [How to increase your chances of getting interviews and job offers in tech](https://dev.to/andrewbaisden/how-to-increase-your-chances-of-getting-interviews-and-job-offers-in-tech-2b74)
 <!-- BLOG-POST-LIST:END -->
 
 ---
