@@ -31,11 +31,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Quntis Monitor Light Bar PRO+ with Remote Control Unboxing and Review](https://dev.to/andrewbaisden/quntis-monitor-light-bar-pro-with-remote-control-unboxing-and-review-2pd7)
 - [How to build a landing page using Tailwind CSS and no code tools](https://dev.to/andrewbaisden/how-to-build-a-landing-page-using-tailwind-css-and-no-code-tools-43g3)
 - [10 of the coolest developer T-shirts from devshirt.club](https://dev.to/andrewbaisden/10-of-the-coolest-developer-t-shirts-from-devshirtclub-56dk)
 - [51 AI tools you should be using for life, programming, content creation and everything else](https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k)
 - [The difference between functional and object orientated programming](https://dev.to/andrewbaisden/the-difference-between-functional-and-object-orientated-programming-833)
-- [How to improve test coverage in a JavaScript React project](https://dev.to/andrewbaisden/how-to-improve-test-coverage-in-a-javascript-react-project-235p)
 <!-- BLOG-POST-LIST:END -->
 
 ---
