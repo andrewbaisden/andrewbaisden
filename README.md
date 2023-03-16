@@ -31,11 +31,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a character select screen with Next.js, using Livecycle to review the PR](https://dev.to/livecycle/building-a-character-select-screen-with-nextjs-using-livecycle-to-review-the-pr-1a5i)
 - [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
 - [A real-world example of how you can use AI tools to build a product](https://dev.to/andrewbaisden/a-real-world-example-of-how-you-can-use-ai-tools-to-build-a-product-14e2)
 - [Quntis Monitor Light Bar PRO+ with Remote Control Unboxing and Review](https://dev.to/andrewbaisden/quntis-monitor-light-bar-pro-with-remote-control-unboxing-and-review-2pd7)
 - [How to build a landing page using Tailwind CSS and no code tools](https://dev.to/andrewbaisden/how-to-build-a-landing-page-using-tailwind-css-and-no-code-tools-43g3)
-- [10 of the coolest developer T-shirts from devshirt.club](https://dev.to/andrewbaisden/10-of-the-coolest-developer-t-shirts-from-devshirtclub-56dk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
