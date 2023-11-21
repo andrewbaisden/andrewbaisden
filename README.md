@@ -31,6 +31,7 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
 - [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
 - [Building a character select screen with Next.js, using Livecycle to review the PR](https://dev.to/livecycle/building-a-character-select-screen-with-nextjs-using-livecycle-to-review-the-pr-1a5i)
@@ -41,7 +42,3 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ---
 
 ![Andrews's github stats](https://github-readme-stats.vercel.app/api?username=andrewbaisden&show_icons=true&theme=tokyonight)
-
----
-
-![snake gif](https://raw.githubusercontent.com/andrewbaisden/andrewbaisden/output/github-contribution-grid-snake.svg)
