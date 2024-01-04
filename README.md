@@ -1,6 +1,6 @@
 # Welcome 👋🏿
 
-Hey there! I'm Andrew a Software Developer from London, UK 🇬🇧
+Hey there! I'm Andrew a Software Developer and Technical Writer from London, UK 🇬🇧
 
 Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io/andrewbaisden)
 
