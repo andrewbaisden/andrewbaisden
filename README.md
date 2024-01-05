@@ -18,7 +18,6 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ![https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png](https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png)
 ![https://cdn-icons-png.flaticon.com/24/2306/2306019.png](https://cdn-icons-png.flaticon.com/24/2306/2306019.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968350.png](https://cdn-icons-png.flaticon.com/24/5968/5968350.png)
-![https://cdn-icons-png.flaticon.com/24/6132/6132222.png](https://cdn-icons-png.flaticon.com/24/6132/6132222.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968322.png](https://cdn-icons-png.flaticon.com/24/5968/5968322.png)
 ![https://cdn-icons-png.flaticon.com/24/1265/1265531.png](https://cdn-icons-png.flaticon.com/24/1265/1265531.png)
 ![https://img.icons8.com/color/24/mongodb.png](https://img.icons8.com/color/24/mongodb.png)
@@ -31,6 +30,7 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
 - [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
 - [Building a character select screen with Next.js, using Livecycle to review the PR](https://dev.to/livecycle/building-a-character-select-screen-with-nextjs-using-livecycle-to-review-the-pr-1a5i)
