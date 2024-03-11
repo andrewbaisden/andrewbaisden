@@ -30,11 +30,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
 - [A day in the life of a developer - Building a dashboard app with SQL, Node.js, Django and Next.js](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7)
 - [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
 - [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
 - [Building a character select screen with Next.js, using Livecycle to review the PR](https://dev.to/livecycle/building-a-character-select-screen-with-nextjs-using-livecycle-to-review-the-pr-1a5i)
-- [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
