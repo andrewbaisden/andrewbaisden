@@ -30,11 +30,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Quntis Dynamic RGB LED Monitor Lamp Tech Review](https://dev.to/andrewbaisden/quntis-dynamic-rgb-led-monitor-lamp-tech-review-510k)
+- [Quntis Remote Control Dual Source Light Bar Tech Review](https://dev.to/andrewbaisden/quntis-remote-control-dual-source-light-bar-tech-review-mef)
 - [How to use fly.io and Tigris to deploy a Next.js app](https://dev.to/andrewbaisden/how-to-use-flyio-and-tigris-to-deploy-a-nextjs-app-1068)
 - [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
 - [A day in the life of a developer - Building a dashboard app with SQL, Node.js, Django and Next.js](https://dev.to/andrewbaisden/a-day-in-the-life-of-a-developer-building-a-dashboard-app-with-sql-nodejs-django-and-nextjs-5en7)
-- [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
-- [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
 <!-- BLOG-POST-LIST:END -->
 
 ---
