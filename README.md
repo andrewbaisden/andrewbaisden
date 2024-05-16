@@ -30,12 +30,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
-
-- [How to build and deploy a modern-day Next.js application](https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn)
-- [How I Built a Modern &#39;Food Menu&#39; Web App: From Tech Stack to Workflow](https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok)
-- [Building a character select screen with Next.js, using Livecycle to review the PR](https://dev.to/livecycle/building-a-character-select-screen-with-nextjs-using-livecycle-to-review-the-pr-1a5i)
-- [Unlocking the Secrets to Success - How to Thrive as a Technical Writer and Earn a Living](https://dev.to/andrewbaisden/unlocking-the-secrets-to-success-how-to-thrive-as-a-technical-writer-and-earn-a-living-5epl)
-- [A real-world example of how you can use AI tools to build a product](https://dev.to/andrewbaisden/a-real-world-example-of-how-you-can-use-ai-tools-to-build-a-product-14e2)
+- [Unlocking Productivity with BenQ&#39;s ScreenBar Halo](https://dev.to/andrewbaisden/unlocking-productivity-with-benqs-screenbar-halo-2l7l)
+- [Quntis Dynamic RGB LED Monitor Lamp Tech Review](https://dev.to/andrewbaisden/quntis-dynamic-rgb-led-monitor-lamp-tech-review-510k)
+- [Quntis Remote Control Dual Source Light Bar Tech Review](https://dev.to/andrewbaisden/quntis-remote-control-dual-source-light-bar-tech-review-mef)
+- [How to use fly.io and Tigris to deploy a Next.js app](https://dev.to/andrewbaisden/how-to-use-flyio-and-tigris-to-deploy-a-nextjs-app-1068)
+- [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
