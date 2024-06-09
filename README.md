@@ -30,11 +30,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring The Pieces for Developers AI App - My Initial Thoughts](https://dev.to/andrewbaisden/exploring-the-pieces-for-developers-ai-app-my-initial-thoughts-cc5)
 - [Unlocking Productivity with BenQ&#39;s ScreenBar Halo](https://dev.to/andrewbaisden/unlocking-productivity-with-benqs-screenbar-halo-2l7l)
 - [Quntis Dynamic RGB LED Monitor Lamp Tech Review](https://dev.to/andrewbaisden/quntis-dynamic-rgb-led-monitor-lamp-tech-review-510k)
 - [Quntis Remote Control Dual Source Light Bar Tech Review](https://dev.to/andrewbaisden/quntis-remote-control-dual-source-light-bar-tech-review-mef)
 - [How to use fly.io and Tigris to deploy a Next.js app](https://dev.to/andrewbaisden/how-to-use-flyio-and-tigris-to-deploy-a-nextjs-app-1068)
-- [How to send emails from your website using Twilio SendGrid](https://dev.to/andrewbaisden/how-to-send-emails-from-your-website-using-twilio-sendgrid-4nbe)
 <!-- BLOG-POST-LIST:END -->
 
 ---
