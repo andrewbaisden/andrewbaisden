@@ -30,11 +30,11 @@ Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Personal Finance App with Arcjet](https://dev.to/andrewbaisden/building-a-personal-finance-app-with-arcjet-5c38)
 - [Quntis Double Head LED Tall Desk Lamp Productivity Review](https://dev.to/andrewbaisden/quntis-double-head-led-tall-desk-lamp-productivity-review-122m)
 - [React Custom Hooks vs. Helper Functions - When To Use Both](https://dev.to/andrewbaisden/react-custom-hooks-vs-helper-functions-when-to-use-both-2587)
 - [Exploring The Pieces for Developers AI App - My Initial Thoughts](https://dev.to/andrewbaisden/exploring-the-pieces-for-developers-ai-app-my-initial-thoughts-cc5)
 - [Unlocking Productivity with BenQ&#39;s ScreenBar Halo](https://dev.to/andrewbaisden/unlocking-productivity-with-benqs-screenbar-halo-2l7l)
-- [Quntis Dynamic RGB LED Monitor Lamp Tech Review](https://dev.to/andrewbaisden/quntis-dynamic-rgb-led-monitor-lamp-tech-review-510k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
