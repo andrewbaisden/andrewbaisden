@@ -1,35 +1,28 @@
-# Welcome 👋🏿
+![Programmer](img/header-2025.png 'Software Developer and Technical Writer')
 
-Hey there! I'm Andrew a Software Developer and Technical Writer from London, UK 🇬🇧
+<h1 align="center">Hi, I'm Andrew Baisden! 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=andrewbaisden.visitor-badge"  />
 
-Find me on social media ➡️ [https://limey.io/andrewbaisden](https://limey.io/andrewbaisden)
+<p>
 
-![Programmer](img/header-2024.png 'Programmer')
+Follow me on --> <a href="https://limey.io/andrewbaisden"> social media</a>
 
----
+</p>
 
-## 💻 TECH STACK
+<h2>💻 TECH STACK</h2>
 
-![https://cdn-icons-png.flaticon.com/24/1051/1051277.png](https://cdn-icons-png.flaticon.com/24/1051/1051277.png)
-![https://cdn-icons-png.flaticon.com/24/732/732190.png](https://cdn-icons-png.flaticon.com/24/732/732190.png)
-![https://cdn-icons-png.flaticon.com/24/5968/5968292.png](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
-![https://cdn-icons-png.flaticon.com/24/5968/5968381.png](https://cdn-icons-png.flaticon.com/24/5968/5968381.png)
-![https://cdn-icons-png.flaticon.com/24/1260/1260667.png](https://cdn-icons-png.flaticon.com/24/1260/1260667.png)
-![https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png](https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png)
-![https://cdn-icons-png.flaticon.com/24/2306/2306019.png](https://cdn-icons-png.flaticon.com/24/2306/2306019.png)
-![https://cdn-icons-png.flaticon.com/24/5968/5968350.png](https://cdn-icons-png.flaticon.com/24/5968/5968350.png)
-![https://cdn-icons-png.flaticon.com/24/5968/5968322.png](https://cdn-icons-png.flaticon.com/24/5968/5968322.png)
-![https://cdn-icons-png.flaticon.com/24/1265/1265531.png](https://cdn-icons-png.flaticon.com/24/1265/1265531.png)
-![https://img.icons8.com/color/24/mongodb.png](https://img.icons8.com/color/24/mongodb.png)
-![https://cdn-icons-png.flaticon.com/24/5969/5969059.png](https://cdn-icons-png.flaticon.com/24/5969/5969059.png)
-![https://cdn-icons-png.flaticon.com/24/5968/5968705.png](https://cdn-icons-png.flaticon.com/24/5968/5968705.png)
-![https://cdn-icons-png.flaticon.com/24/5968/5968520.png](https://cdn-icons-png.flaticon.com/24/5968/5968520.png)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,js,astro,react,nodejs,py,postgres,docker,figma" alt="Tech Stack"/>
+  </a>
+</p>
 
 ---
 
-## 📝 LATEST ARTICLES
+<h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Deploying a React Watchlist Tracker App to Production Using DeployHQ](https://dev.to/andrewbaisden/deploying-a-react-watchlist-tracker-app-to-production-using-deployhq-239e)
 - [PubNub vs Pusher creating a realtime messaging app in React](https://dev.to/andrewbaisden/pubnub-vs-pusher-creating-a-realtime-messaging-app-in-react-2h1f)
 - [Building a Personal Finance App with Arcjet](https://dev.to/andrewbaisden/building-a-personal-finance-app-with-arcjet-5c38)
