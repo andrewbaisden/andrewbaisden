@@ -22,11 +22,11 @@ Follow me on --> <a href="https://limey.io/andrewbaisden"> social media</a>
 <h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [21 Must-Subscribe AI YouTube Channels for Learning and Inspiration](https://dev.to/andrewbaisden/21-must-subscribe-ai-youtube-channels-for-learning-and-inspiration-12m3)
 - [My Ultimate Toolkit - 10 AI Tools That Boost Productivity](https://dev.to/andrewbaisden/my-ultimate-toolkit-10-ai-tools-that-boost-productivity-3paj)
 - [Deploying a React Watchlist Tracker App to Production Using DeployHQ](https://dev.to/andrewbaisden/deploying-a-react-watchlist-tracker-app-to-production-using-deployhq-239e)
 - [PubNub vs Pusher creating a realtime messaging app in React](https://dev.to/andrewbaisden/pubnub-vs-pusher-creating-a-realtime-messaging-app-in-react-2h1f)
 - [Building a Personal Finance App with Arcjet](https://dev.to/andrewbaisden/building-a-personal-finance-app-with-arcjet-5c38)
-- [Quntis Double Head LED Tall Desk Lamp Productivity Review](https://dev.to/andrewbaisden/quntis-double-head-led-tall-desk-lamp-productivity-review-122m)
 <!-- BLOG-POST-LIST:END -->
 
 ---
