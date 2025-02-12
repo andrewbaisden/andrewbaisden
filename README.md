@@ -22,11 +22,11 @@ Follow me on --> <a href="https://limey.io/andrewbaisden"> social media</a>
 <h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [I Tested the Top AI Models to Build the Same App - Here are the Shocking Results!](https://dev.to/andrewbaisden/i-tested-the-top-ai-models-to-build-the-same-app-here-are-the-shocking-results-39l9)
 - [How to Build Modern React Apps with the TanStack Suite in 2025](https://dev.to/andrewbaisden/how-to-build-modern-react-apps-with-the-tanstack-suite-in-2025-5fed)
 - [The Best AI Models for Video Generation in 2025](https://dev.to/andrewbaisden/the-best-ai-models-for-video-generation-in-2025-2h0m)
 - [Writing Software Tutorials for Beginners - 10 Tips, Tricks, and Rules I Follow](https://dev.to/andrewbaisden/writing-software-tutorials-for-beginners-10-tips-tricks-and-rules-i-follow-9e5)
 - [Building Modern React Apps in 2025 - A Guide to Cutting-Edge Tools and Tech Stacks](https://dev.to/andrewbaisden/building-modern-react-apps-in-2025-a-guide-to-cutting-edge-tools-and-tech-stacks-k8g)
-- [21 Must-Subscribe AI YouTube Channels for Learning and Inspiration](https://dev.to/andrewbaisden/21-must-subscribe-ai-youtube-channels-for-learning-and-inspiration-12m3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
