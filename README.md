@@ -22,7 +22,6 @@ Follow me on --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
 <h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Choosing the Right Debugging and Session Replay Tool - Multiplayer vs LogRocket, Sentry, Datadog, and FullStory](https://dev.to/andrewbaisden/choosing-the-right-debugging-and-session-replay-tool-multiplayer-vs-logrocket-sentry-datadog-577f)
 - [My AI Agent Team - 7 AI Tools For Getting Things Done](https://dev.to/andrewbaisden/my-ai-agent-team-7-ai-tools-for-getting-things-done-4551)
 - [How AI Browsers Are the New Hotness and What This Means for Us](https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp)
