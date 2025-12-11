@@ -22,11 +22,11 @@ Follow me on --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
 <h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Automated My Workflow Using Zapier and Why You Should Too](https://dev.to/andrewbaisden/how-i-automated-my-workflow-using-zapier-and-why-you-should-too-1g4d)
 - [Choosing the Right Debugging and Session Replay Tool - Multiplayer vs LogRocket, Sentry, Datadog, and FullStory](https://dev.to/andrewbaisden/choosing-the-right-debugging-and-session-replay-tool-multiplayer-vs-logrocket-sentry-datadog-577f)
 - [My AI Agent Team - 7 AI Tools For Getting Things Done](https://dev.to/andrewbaisden/my-ai-agent-team-7-ai-tools-for-getting-things-done-4551)
 - [How AI Browsers Are the New Hotness and What This Means for Us](https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp)
 - [How Verdent Deck Supercharged My Workflow - Building Apps with Multiple AI Agents in Parallel](https://dev.to/andrewbaisden/how-verdent-deck-supercharged-my-workflow-building-apps-with-multiple-ai-agents-in-parallel-3o5g)
-- [9 Productivity Hacks - AI Tools That I&#39;m Using in 2025](https://dev.to/andrewbaisden/9-productivity-hacks-ai-tools-that-im-using-in-2025-2nj4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
