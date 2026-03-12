@@ -22,11 +22,11 @@ Follow me on --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
 <h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents That Actually Work, Building Reliable UI Automation with Amazon Nova Act](https://dev.to/andrewbaisden/ai-agents-that-actually-work-building-reliable-ui-automation-with-amazon-nova-act-390o)
 - [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
 - [How I Automated My Workflow Using Zapier and Why You Should Too](https://dev.to/andrewbaisden/how-i-automated-my-workflow-using-zapier-and-why-you-should-too-1g4d)
 - [Choosing the Right Debugging and Session Replay Tool - Multiplayer vs LogRocket, Sentry, Datadog, and FullStory](https://dev.to/andrewbaisden/choosing-the-right-debugging-and-session-replay-tool-multiplayer-vs-logrocket-sentry-datadog-577f)
 - [My AI Agent Team - 7 AI Tools For Getting Things Done](https://dev.to/andrewbaisden/my-ai-agent-team-7-ai-tools-for-getting-things-done-4551)
-- [How AI Browsers Are the New Hotness and What This Means for Us](https://dev.to/andrewbaisden/how-ai-browsers-are-the-new-hotness-and-what-this-means-for-us-38dp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
