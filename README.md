@@ -22,7 +22,6 @@ Subscribe --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
 <h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [How Bifrost&#39;s MCP Gateway Cuts AI Agent Token Costs by 92% Without Sacrificing Capability](https://dev.to/andrewbaisden/how-bifrosts-mcp-gateway-cuts-ai-agent-token-costs-by-92-without-sacrificing-capability-237i)
 - [AI Agents That Actually Work, Building Reliable UI Automation with Amazon Nova Act](https://dev.to/andrewbaisden/ai-agents-that-actually-work-building-reliable-ui-automation-with-amazon-nova-act-390o)
 - [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
