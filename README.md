@@ -22,6 +22,7 @@ Subscribe --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
 <h2>📝 LATEST ARTICLES</h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Configuring Data Access Control &lpar;DAC&rpar; Team Level Visibility for Enterprise AI Governance](https://dev.to/andrewbaisden/configuring-data-access-control-dac-team-level-visibility-for-enterprise-ai-governance-1nii)
 - [From Vibe Coding to Vibe Computing](https://dev.to/andrewbaisden/from-vibe-coding-to-vibe-computing-4gfm)
 - [LLM Guardrails in Production and How Bifrost Protects Your AI Agents at the Gateway Level](https://dev.to/andrewbaisden/llm-guardrails-in-production-and-how-bifrost-protects-your-ai-agents-at-the-gateway-level-mc6)
@@ -31,4 +32,4 @@ Subscribe --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
 
 ---
 
-![Andrews's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andrewbaisden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github)
+![Andrews's GitHub stats](https://github-stats-extended.vercel.app/api?username=andrewbaisden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github)
