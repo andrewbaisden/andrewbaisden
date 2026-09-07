@@ -33,7 +33,17 @@ performance and developer experience.
 
 ## 🚀 Featured Projects
 
-Coming soon!
+### 🏠 Homespace
+
+![Homespace](img/homespace.png)
+
+Managing property layouts, belongings, and home records often means relying on separate tools or static documents. **HomeSpace** brings them together in one application with interactive **2D floor plans, a 3D property viewer, and an insurance-ready home inventory**.
+
+Built with **Next.js** as a modern way to visualise, organise, and document your home.
+
+Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Zustand · better-auth · Konva · Three.js · React Three Fiber · Vitest · Playwright**
+
+→ <a href="https://homespace-beige.vercel.app/">Live Demo</a> · <a href="https://github.com/andrewbaisden/homespace">Source Code</a>
 
 ---
 
@@ -45,11 +55,11 @@ TypeScript · React · Next.js · Node.js · PostgreSQL
 
 ### Frontend
 
-Tailwind CSS · shadcn/ui · TanStack Query · Zustand
+Tailwind CSS · shadcn/ui · TanStack Query · Zustand · Konva · Three.js · React Three Fiber
 
 ### Backend & Data
 
-Node.js · PostgreSQL · Drizzle · Prisma · Zod
+Node.js · PostgreSQL · Drizzle · Prisma · Zod · better-auth
 
 ### Testing & DevOps
 
@@ -87,6 +97,7 @@ I write about software engineering, AI systems,
 developer tooling and modern web development.
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Configuring Data Access Control &lpar;DAC&rpar; Team Level Visibility for Enterprise AI Governance](https://dev.to/andrewbaisden/configuring-data-access-control-dac-team-level-visibility-for-enterprise-ai-governance-1nii)
 - [From Vibe Coding to Vibe Computing](https://dev.to/andrewbaisden/from-vibe-coding-to-vibe-computing-4gfm)
 - [LLM Guardrails in Production and How Bifrost Protects Your AI Agents at the Gateway Level](https://dev.to/andrewbaisden/llm-guardrails-in-production-and-how-bifrost-protects-your-ai-agents-at-the-gateway-level-mc6)
