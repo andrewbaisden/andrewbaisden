@@ -97,7 +97,6 @@ I write about software engineering, AI systems,
 developer tooling and modern web development.
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Configuring Data Access Control &lpar;DAC&rpar; Team Level Visibility for Enterprise AI Governance](https://dev.to/andrewbaisden/configuring-data-access-control-dac-team-level-visibility-for-enterprise-ai-governance-1nii)
 - [From Vibe Coding to Vibe Computing](https://dev.to/andrewbaisden/from-vibe-coding-to-vibe-computing-4gfm)
 - [LLM Guardrails in Production and How Bifrost Protects Your AI Agents at the Gateway Level](https://dev.to/andrewbaisden/llm-guardrails-in-production-and-how-bifrost-protects-your-ai-agents-at-the-gateway-level-mc6)
