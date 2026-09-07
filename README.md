@@ -1,27 +1,93 @@
-![Programmer](img/header-2026.png 'Software Developer')
+![Andrew Baisden — Full-Stack Engineer](img/header-2026.png)
 
-<h1 align="center">Hey, I'm Andrew Baisden! 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=andrewbaisden.visitor-badge"  />
-
-<p>
-
-Subscribe --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
-
-</p>
-
-<h2>💻 TECH STACK</h2>
+<h1 align="center">Andrew Baisden</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,react,nodejs,py,postgres,docker,figma" alt="Tech Stack"/>
-  </a>
+  <strong>Full-Stack Engineer</strong><br/>
+  Building modern web applications with TypeScript, React,
+  Next.js, Node.js and PostgreSQL.
+</p>
+
+<p align="center">
+  <a href="https://andrewbaisden.com/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/andrew-baisden/">LinkedIn</a> •
+  <a href="https://dev.to/andrewbaisden">Technical Writing</a> •
+  <a href="https://twitter.com/andrewbaisden">X</a>
 </p>
 
 ---
 
-<h2>📝 LATEST ARTICLES</h2>
+## 👨‍💻 About
+
+I'm a full-stack engineer focused on building reliable,
+production-ready web applications.
+
+My current work centres around TypeScript, React, Next.js,
+Node.js and PostgreSQL, alongside AI-powered applications,
+developer tooling and automation.
+
+I care about clean architecture, maintainability,
+performance and developer experience.
+
+---
+
+## 🚀 Featured Projects
+
+Coming soon!
+
+---
+
+## 🛠️ Tech Stack
+
+### Core
+
+TypeScript · React · Next.js · Node.js · PostgreSQL
+
+### Frontend
+
+Tailwind CSS · shadcn/ui · TanStack Query · Zustand
+
+### Backend & Data
+
+Node.js · PostgreSQL · Drizzle · Prisma · Zod
+
+### Testing & DevOps
+
+Vitest · Playwright · Docker · GitHub Actions · AWS · Vercel
+
+### AI Engineering
+
+LLM APIs · Structured Outputs · Tool Calling · RAG · MCP
+
+---
+
+## 🧠 Engineering Focus
+
+- Full-stack architecture
+- API design
+- Database design
+- Testing and CI/CD
+- Performance and observability
+- AI agents and LLM applications
+- Developer tooling and automation
+
+---
+
+## 🔭 Currently
+
+Building and experimenting with production-ready full-stack
+and AI applications while deepening my knowledge of system
+design, cloud infrastructure and AI engineering.
+
+---
+
+## ✍️ Technical Writing
+
+I write about software engineering, AI systems,
+developer tooling and modern web development.
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Configuring Data Access Control &lpar;DAC&rpar; Team Level Visibility for Enterprise AI Governance](https://dev.to/andrewbaisden/configuring-data-access-control-dac-team-level-visibility-for-enterprise-ai-governance-1nii)
 - [From Vibe Coding to Vibe Computing](https://dev.to/andrewbaisden/from-vibe-coding-to-vibe-computing-4gfm)
 - [LLM Guardrails in Production and How Bifrost Protects Your AI Agents at the Gateway Level](https://dev.to/andrewbaisden/llm-guardrails-in-production-and-how-bifrost-protects-your-ai-agents-at-the-gateway-level-mc6)
@@ -29,6 +95,16 @@ Subscribe --> <a href="https://linktr.ee/andrewbaisden"> social media</a>
 - [AI Agents That Actually Work, Building Reliable UI Automation with Amazon Nova Act](https://dev.to/andrewbaisden/ai-agents-that-actually-work-building-reliable-ui-automation-with-amazon-nova-act-390o)
 <!-- BLOG-POST-LIST:END -->
 
+→ <a href="https://dev.to/andrewbaisden">Read more articles</a>
+
 ---
 
+## 📊 GitHub
+
 ![Andrews's GitHub stats](https://github-stats-extended.vercel.app/api?username=andrewbaisden&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github)
+
+---
+
+## 🤝 Connect
+
+<a href="https://andrewbaisden.com/">Portfolio</a> · <a href="https://www.linkedin.com/in/andrew-baisden/">LinkedIn</a> · <a href="https://twitter.com/andrewbaisden">X</a> · <a href="https://dev.to/andrewbaisden">DEV</a> · <a href="mailto:info@andrewbaisden.com">Email</a>
