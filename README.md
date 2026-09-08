@@ -33,6 +33,20 @@ performance and developer experience.
 
 ## 🚀 Featured Projects
 
+### 🦁 Fauna
+
+![Fauna](img/fauna.png)
+
+Wildlife information is often scattered across field guides, encyclopedias, and static pages. **Fauna** brings them together in one application with **species profiles, comparison tools, and interactive 3D models**.
+
+Built with **Next.js** as a modern way to explore, compare, and understand life on Earth.
+
+Tech stack: **TypeScript · Next.js · PostgreSQL · Prisma · Tailwind CSS · better-auth · Leaflet · React Three Fiber**
+
+→ <a href="https://fauna-tau-virid.vercel.app/">Live Demo</a> · <a href="https://github.com/andrewbaisden/fauna">Source Code</a>
+
+---
+
 ### 🏠 Homespace
 
 ![Homespace](img/homespace.png)
@@ -55,7 +69,7 @@ TypeScript · React · Next.js · Node.js · PostgreSQL
 
 ### Frontend
 
-Tailwind CSS · shadcn/ui · TanStack Query · Zustand · Konva · Three.js · React Three Fiber
+Tailwind CSS · shadcn/ui · TanStack Query · Zustand · Konva · Leaflet · Three.js · React Three Fiber
 
 ### Backend & Data
 
