@@ -33,6 +33,20 @@ performance and developer experience.
 
 ## 🚀 Featured Projects
 
+### ⚽ LeagueSim
+
+![LeagueSim](img/leaguesim.png)
+
+Forecasting a Premier League season usually means opaque models or guesswork. **LeagueSim** is a football analytics platform that uses **seeded Monte Carlo simulations** and an **explainable Poisson model** to forecast standings, title chances, European qualification, and relegation.
+
+Built with **Next.js** as a modern way to simulate seasons and inspect hypothetical outcomes.
+
+Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Redis · BullMQ**
+
+→ <a href="https://github.com/andrewbaisden/league-sim">Source Code</a>
+
+---
+
 ### 🦁 Fauna
 
 ![Fauna](img/fauna.png)
@@ -73,7 +87,7 @@ Tailwind CSS · shadcn/ui · TanStack Query · Zustand · Konva · Leaflet · Th
 
 ### Backend & Data
 
-Node.js · PostgreSQL · Drizzle · Prisma · Zod · better-auth
+Node.js · PostgreSQL · Drizzle · Prisma · Zod · Redis · BullMQ · better-auth
 
 ### Testing & DevOps
 
