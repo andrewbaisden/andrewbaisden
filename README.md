@@ -43,7 +43,7 @@ Built with **Next.js** as a modern way to simulate seasons and inspect hypotheti
 
 Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Redis · BullMQ**
 
-→ <a href="https://web-85i6anbd8-abaisden-projects.vercel.app/">Live Demo</a> · <a href="https://github.com/andrewbaisden/league-sim">Source Code</a>
+→ <a href="https://web-ten-pied-wn5lzh6lq8.vercel.app/">Live Demo</a> · <a href="https://github.com/andrewbaisden/league-sim">Source Code</a>
 
 ---
 
