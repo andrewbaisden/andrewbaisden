@@ -33,6 +33,20 @@ performance and developer experience.
 
 ## 🚀 Featured Projects
 
+### 🚚 DeliveryOS
+
+![DeliveryOS](img/deliveryos.png)
+
+Last-mile operations often split dispatch, tracking, and simulation across disconnected tools. **DeliveryOS** is a last-mile delivery ops platform with **dispatch, a live fleet map, telemetry, SSE, and a deterministic simulator** that runs on the same pipelines as real drivers.
+
+Built with **Next.js** as a modern way to run operations, driver workflows, and simulated fleets on one stack.
+
+Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Redis · BullMQ · Fastify · Zod**
+
+→ <a href="https://github.com/andrewbaisden/deliveryos">Source Code</a>
+
+---
+
 ### ⚽ LeagueSim
 
 ![LeagueSim](img/leaguesim.png)
@@ -87,11 +101,11 @@ Tailwind CSS · shadcn/ui · TanStack Query · Zustand · Konva · Leaflet · Th
 
 ### Backend & Data
 
-Node.js · PostgreSQL · Drizzle · Prisma · Zod · Redis · BullMQ · better-auth
+Node.js · PostgreSQL · Drizzle · Prisma · Zod · Redis · BullMQ · Fastify · better-auth
 
 ### Testing & DevOps
 
-Vitest · Playwright · Docker · GitHub Actions · AWS · Vercel
+Vitest · Playwright · Docker · GitHub Actions · AWS · Vercel · Fly.io
 
 ### AI Engineering
 
