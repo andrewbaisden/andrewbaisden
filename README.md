@@ -33,6 +33,20 @@ performance and developer experience.
 
 ## 🚀 Featured Projects
 
+### 🚇 TransitPulse
+
+![TransitPulse](img/transitpulse.png)
+
+Public-transport apps usually stop at “next train in 4 minutes” without reliability, crowding, or why a line is disrupted. **TransitPulse** is London public-transport intelligence on live TfL data with **reliability, crowding, arrivals, and explainable disruption detection**.
+
+Built with **Next.js** as a modern way to inspect the network, live status, and disruption context.
+
+Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Redis · BullMQ · Leaflet**
+
+→ <a href="https://github.com/andrewbaisden/transitpulse">Source Code</a>
+
+---
+
 ### 🚚 DeliveryOS
 
 ![DeliveryOS](img/deliveryos.png)
