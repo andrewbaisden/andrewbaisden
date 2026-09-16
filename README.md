@@ -33,6 +33,20 @@ performance and developer experience.
 
 ## 🚀 Featured Projects
 
+### 🛡️ HomeGuard 3D
+
+![HomeGuard 3D](img/homeguard3d.png)
+
+Smart-home security tools often split floor plans, device state, and alerts across disconnected dashboards that need real hardware to demo. **HomeGuard 3D** is a smart-home digital twin with **synchronized 2D/3D views, realtime events, and hardware-free simulation**.
+
+Built with **Next.js** as a modern way to inspect a property, watch live activity, and run security scenarios without physical devices.
+
+Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Redis · BullMQ · Three.js · React Three Fiber**
+
+→ <a href="https://github.com/andrewbaisden/homeguard3d">Source Code</a>
+
+---
+
 ### 🚇 TransitPulse
 
 ![TransitPulse](img/transitpulse.png)
@@ -115,7 +129,7 @@ Tailwind CSS · shadcn/ui · TanStack Query · Zustand · Konva · Leaflet · Th
 
 ### Backend & Data
 
-Node.js · PostgreSQL · Drizzle · Prisma · Zod · Redis · BullMQ · Fastify · better-auth
+Node.js · PostgreSQL · Drizzle · Prisma · Zod · Redis · BullMQ · Fastify · SSE · better-auth
 
 ### Testing & DevOps
 
