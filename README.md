@@ -33,6 +33,20 @@ performance and developer experience.
 
 ## 🚀 Featured Projects
 
+### 📨 IssueRelay
+
+![IssueRelay](img/issuerelay.png)
+
+Website feedback usually lands in scattered inboxes, and bug reports get copied into GitHub by hand, sometimes with a visitor's private details still in them. **IssueRelay** is an AI support system with **an embeddable React widget, AI triage with Jev, a review dashboard, and confirmed bugs routed to GitHub as issues that stay in sync**.
+
+Built with **Next.js** as a modern way to collect, triage, and act on feedback from any website, with the widget published on npm and running on my portfolio.
+
+Tech stack: **TypeScript · Next.js · React · PostgreSQL · Drizzle · Tailwind CSS · Zod · better-auth · Jev · GitHub Apps · Vitest · Playwright**
+
+→ <a href="https://www.npmjs.com/package/@issuerelay/widget">npm Package</a> · <a href="https://github.com/andrewbaisden/issuerelay">Source Code</a>
+
+---
+
 ### 🛡️ HomeGuard 3D
 
 ![HomeGuard 3D](img/homeguard3d.png)
@@ -137,7 +151,7 @@ Vitest · Playwright · Docker · GitHub Actions · AWS · Vercel · Fly.io
 
 ### AI Engineering
 
-LLM APIs · Structured Outputs · Tool Calling · RAG · MCP
+LLM APIs · Structured Outputs · Tool Calling · RAG · MCP · Jev
 
 ---
 
