@@ -47,45 +47,31 @@ Tech stack: **TypeScript · Next.js · React · PostgreSQL · Drizzle · Tailwin
 
 ---
 
-### 🛡️ HomeGuard 3D
+### ✈️ Travel Planner Application
 
-![HomeGuard 3D](img/homeguard3d.png)
+![Travel Planner Application](https://res.cloudinary.com/d74fh3kw/image/upload/v1744909121/React_Travel_Planner_Agent_App_Agentic_Mode_hzvm1c.png)
 
-Smart-home security tools often split floor plans, device state, and alerts across disconnected dashboards that need real hardware to demo. **HomeGuard 3D** is a smart-home digital twin with **synchronized 2D/3D views, realtime events, and hardware-free simulation**.
+Turning travel preferences into a detailed itinerary often means piecing together destinations, attractions, and practical tips by hand. **Travel Planner Application** is an AI travel planner with **local Ollama models, optional Groq models through Agno, and simple or five-phase agentic workflows** that plan, research, generate, review, and improve personalised itineraries.
 
-Built with **Next.js** as a modern way to inspect a property, watch live activity, and run security scenarios without physical devices.
+Built with **Next.js** as a modern way to turn travel preferences into structured plans, backed by a Python API and an alternative Gradio interface.
 
-Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Redis · BullMQ · Three.js · React Three Fiber**
+Tech stack: **TypeScript · Next.js · React · Tailwind CSS · Python · FastAPI · Gradio · Ollama · Agno · Groq**
 
-→ <a href="https://github.com/andrewbaisden/homeguard3d">Source Code</a>
-
----
-
-### 🚇 TransitPulse
-
-![TransitPulse](img/transitpulse.png)
-
-Public-transport apps usually stop at “next train in 4 minutes” without reliability, crowding, or why a line is disrupted. **TransitPulse** is London public-transport intelligence on live TfL data with **reliability, crowding, arrivals, and explainable disruption detection**.
-
-Built with **Next.js** as a modern way to inspect the network, live status, and disruption context.
-
-Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Redis · BullMQ · Leaflet**
-
-→ <a href="https://github.com/andrewbaisden/transitpulse">Source Code</a>
+→ <a href="https://github.com/andrewbaisden/travel-planner-ai-agent-app">Source Code</a>
 
 ---
 
-### 🚚 DeliveryOS
+### 🌐 Portfolio website
 
-![DeliveryOS](img/deliveryos.png)
+![Portfolio website](img/portfolio.png)
 
-Last-mile operations often split dispatch, tracking, and simulation across disconnected tools. **DeliveryOS** is a last-mile delivery ops platform with **dispatch, a live fleet map, telemetry, SSE, and a deterministic simulator** that runs on the same pipelines as real drivers.
+Presenting engineering work online calls for a clear introduction and a memorable way to explore it. **Portfolio website** is my personal engineering portfolio with **switchable animated London, mountain, beach, and space scenes, day/night themes, a validated contact form, and an integrated IssueRelay support widget**.
 
-Built with **Next.js** as a modern way to run operations, driver workflows, and simulated fleets on one stack.
+Built with **Next.js** as a modern way to share my work, technical background, and writing through an interactive, responsive website.
 
-Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Redis · BullMQ · Fastify · Zod**
+Tech stack: **TypeScript · Next.js · React · CSS · React Hook Form · Zod · Resend · IssueRelay · Vitest · Playwright · Netlify**
 
-→ <a href="https://github.com/andrewbaisden/deliveryos">Source Code</a>
+→ <a href="https://andrewbaisden.com/">Live Demo</a> · <a href="https://github.com/andrewbaisden/andrew-baisden-portfolio">Source Code</a>
 
 ---
 
@@ -103,34 +89,6 @@ Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind
 
 ---
 
-### 🦁 Fauna
-
-![Fauna](img/fauna.png)
-
-Wildlife information is often scattered across field guides, encyclopedias, and static pages. **Fauna** brings them together in one application with **species profiles, comparison tools, and interactive 3D models**.
-
-Built with **Next.js** as a modern way to explore, compare, and understand life on Earth.
-
-Tech stack: **TypeScript · Next.js · PostgreSQL · Prisma · Tailwind CSS · better-auth · Leaflet · React Three Fiber**
-
-→ <a href="https://fauna-tau-virid.vercel.app/">Live Demo</a> · <a href="https://github.com/andrewbaisden/fauna">Source Code</a>
-
----
-
-### 🏠 Homespace
-
-![Homespace](img/homespace.png)
-
-Managing property layouts, belongings, and home records often means relying on separate tools or static documents. **HomeSpace** brings them together in one application with interactive **2D floor plans, a 3D property viewer, and an insurance-ready home inventory**.
-
-Built with **Next.js** as a modern way to visualise, organise, and document your home.
-
-Tech stack: **TypeScript · Next.js · React · PostgreSQL · Prisma · Tailwind CSS · Zustand · better-auth · Konva · Three.js · React Three Fiber · Vitest · Playwright**
-
-→ <a href="https://homespace-beige.vercel.app/">Live Demo</a> · <a href="https://github.com/andrewbaisden/homespace">Source Code</a>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Core
@@ -139,19 +97,19 @@ TypeScript · React · Next.js · Node.js · PostgreSQL
 
 ### Frontend
 
-Tailwind CSS · shadcn/ui · TanStack Query · Zustand · Konva · Leaflet · Three.js · React Three Fiber
+CSS · Tailwind CSS · shadcn/ui · React Hook Form · TanStack Query · Zustand · Konva · Leaflet · Three.js · React Three Fiber
 
 ### Backend & Data
 
-Node.js · PostgreSQL · Drizzle · Prisma · Zod · Redis · BullMQ · Fastify · SSE · better-auth
+Node.js · Python · FastAPI · Gradio · PostgreSQL · Drizzle · Prisma · Zod · Redis · BullMQ · Fastify · SSE · better-auth · Resend
 
 ### Testing & DevOps
 
-Vitest · Playwright · Docker · GitHub Actions · AWS · Vercel · Fly.io
+Vitest · Playwright · Docker · GitHub Actions · AWS · Vercel · Netlify · Fly.io
 
 ### AI Engineering
 
-LLM APIs · Structured Outputs · Tool Calling · RAG · MCP · Jev
+LLM APIs · Structured Outputs · Tool Calling · RAG · MCP · Jev · Ollama · Agno · Groq
 
 ---
 
