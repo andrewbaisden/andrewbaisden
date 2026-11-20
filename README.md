@@ -139,11 +139,11 @@ I write about software engineering, AI systems,
 developer tooling and modern web development.
 
 <!-- BLOG-POST-LIST:START -->
+- [UPDF Review - Can an AI PDF Editor Replace Adobe Acrobat in a Developer&#39;s Workflow?](https://dev.to/andrewbaisden/updf-review-can-an-ai-pdf-editor-replace-adobe-acrobat-in-a-developers-workflow-2976)
 - [The 5 Best MCP Gateways for Enterprise Scale in 2026](https://dev.to/andrewbaisden/the-5-best-mcp-gateways-for-enterprise-scale-in-2026-504g)
 - [Configuring Data Access Control &lpar;DAC&rpar; Team Level Visibility for Enterprise AI Governance](https://dev.to/andrewbaisden/configuring-data-access-control-dac-team-level-visibility-for-enterprise-ai-governance-1nii)
 - [From Vibe Coding to Vibe Computing](https://dev.to/andrewbaisden/from-vibe-coding-to-vibe-computing-4gfm)
 - [LLM Guardrails in Production and How Bifrost Protects Your AI Agents at the Gateway Level](https://dev.to/andrewbaisden/llm-guardrails-in-production-and-how-bifrost-protects-your-ai-agents-at-the-gateway-level-mc6)
-- [How Bifrost&#39;s MCP Gateway Cuts AI Agent Token Costs by 92% Without Sacrificing Capability](https://dev.to/andrewbaisden/how-bifrosts-mcp-gateway-cuts-ai-agent-token-costs-by-92-without-sacrificing-capability-237i)
 <!-- BLOG-POST-LIST:END -->
 
 → <a href="https://dev.to/andrewbaisden">Read more articles</a>
